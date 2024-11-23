@@ -1,4 +1,4 @@
 variable "az" {
-  type = string
+  type    = string
   default = "us-west-2a"
 }
