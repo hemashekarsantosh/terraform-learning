@@ -13,3 +13,8 @@ variable "subnets" {
 variable "security_group" {
   
 }
+
+variable "alb_arn" {
+  
+}
+
